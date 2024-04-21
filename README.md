@@ -1,23 +1,27 @@
 # Movie Review App
 
-Welcome to the Movie Review App! This full-stack application offers a seamless experience for movie enthusiasts to explore, watch trailers, and share their thoughts through reviews.
+This full-stack application offers a seamless experience for movie enthusiasts to explore, watch trailers, and share their thoughts through reviews.
 
 ## Description
 
 The Movie Review App is a dynamic platform that combines cutting-edge technologies to deliver an immersive movie-watching experience. With React powering the frontend, Spring Boot driving the backend, and MongoDB handling the database operations, users can seamlessly navigate through movie details, trailers, and reviews.
-## Features
 
-- Explore movie details
-- Watch trailers
-- Share reviews
+## Key Features
 
-## Key Responsibilities and Achievements
+- **Movie Details:** Dive deep into comprehensive movie details, including posters, titles, release dates, and trailers.
+- **User Interaction:** Engage with the platform through intuitive UI elements, including login, registration, and review posting functionalities.
+- **Community Reviews:** Share your insights and opinions by posting reviews for your favorite movies.
 
-- Engineered a robust full-stack solution integrating frontend (React), backend (Spring Boot), and database (MongoDB) technologies.
-- Designed intuitive user interfaces for effortless navigation and engagement using React and Material-UI components.
-- Developed RESTful API endpoints with Spring Boot for efficient communication between frontend and backend systems.
-- Implemented MongoDB to store movie details and user-generated reviews, ensuring data integrity and scalability.
-- Collaborated with cross-functional teams to deliver a user-friendly and feature-rich application.
+## Technologies Used
+
+### Frontend
+- React
+- Bootstrap
+### Backend
+- Spring Boot 3.1.2
+
+### Database
+- MongoDB
 
 ### Dependencies
 
